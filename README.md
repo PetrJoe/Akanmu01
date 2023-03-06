@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/-Hacker%20earth-blue?style=flat&logo=hackerearth" alt="Hacker Earth">
 </div>
 
-- 👋 Hi, I’m @Akanmu01
+- 👋 Hi, I’m @PetrJoe
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on who is ready to work with me and to learn with me
@@ -13,6 +13,7 @@
 - Email - petrjoe02@gmail.com
 - Whatsapp - https://wa.me/+2348133643937
 - FaceBook - https://fb.me/coin09o
+- website - https://petrjoe.netlify.app
 
 
 <table>
@@ -38,12 +39,12 @@
 2. Htmx (Advance)(for single page)
 3. VS Code (Advanced)(editor)
 4. Django-Rest-Framework (Advanced)
-5. Bootstrap (Basic)
+5. Bootstrap (CSS Framework)
 
 
 ### Skills:-
 1. Web development (Full stack)
-2. Database Management (MySQL basic)
+2. Database Management (MySQL, Sqlite, Postgresql)
 3. Cloud computing (Basics)
 4. API Creation and integration 
 
@@ -51,22 +52,19 @@
 1. Django Rest Framework
 
 ### Web Hosting platforms:-
-1. GitHub
-2. Pythonanywhere
-3. Heroku
-4. Render 
-5. vercel
-6. Railway
+1. Heroku
+2. Render 
+3. vercel
+4. Railway
 
 ### Projects:-
 1. STARTICFIELD Website
 2. FinTech Website (currently working)
 3. Quiz Application (done)
-3. Chat Application (waiting list)
-
+4. Chat Application (waiting list)
 
 
 ### Github Stats:-
-[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrJoe)](https://github.com/PetrJoe/github-readme-stats)
+[![PetrJoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetrJoe)](https://github.com/PetrJoe/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrJoe)](https://github.com/PetrJoe/github-readme-stats)
